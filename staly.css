@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.devor{
+    min-width: 400px;
+    min-height: 500px;
+    background: rgb(77, 104, 132);
+    padding-top: 14.2%;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 200px 200px 0 0;
+}
+.poya1{
+    min-width: 200px;
+    min-height: 30px;
+    background: black;
+    margin: 10% 0 10% 50%;
+}
+.poya2{
+    max-width: 280px;
+    min-height: 30px;
+    background: black;
+    margin: 10% 0 10% 30%;
+}
+.poya3{
+    min-width: 350px;
+    min-height: 30px;
+    background: black;
+    margin: 10% 0 10% 12%;
+}
+.poya4{
+    min-width: 385px;
+    min-height: 30px;
+    background: black;
+    margin: 10% 0 10% 3.5%;
+}
